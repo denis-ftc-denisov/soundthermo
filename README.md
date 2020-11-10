@@ -6,7 +6,7 @@ Simple thermometer using sound card input and output, a thermistor and couple of
 
 One should assemble components as shown on scheme below:
 
-![Thermometer scheme](https://raw.githubusercontent.com/denis-ftc-denisov/soundthermo/master/scheme.png
+![Thermometer scheme](scheme.png)
 
 * Lout should be connected to left channel of sound card output
 * Rout should be connected to right channel
